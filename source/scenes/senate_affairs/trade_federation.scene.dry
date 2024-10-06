@@ -7,4 +7,12 @@ on-arrival: month_actions += 1
 
 = Trade Federation
 
-The Trade Federation is a vast shipping corporation, powerful enough to have its own representatives in the Senate.
+The Trade Federation is a vast shipping corporation, powerful enough to have its own representatives in the Senate. Its rise in power worries many, and taxation of the Trade Federation has been a pressing issue for many years.
+
+- @increase_taxes: Increase taxes on Trade Federation shipping routes.
+- @reduce_taxes: Reduce taxes on Trade Federation shipping routes.
+- @root: Do not change taxes on the Trade Federation.
+
+@increase_taxes
+
+@reduce_taxes

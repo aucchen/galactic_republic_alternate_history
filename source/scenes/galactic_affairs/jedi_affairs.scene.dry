@@ -11,9 +11,13 @@ The Jedi are currently the closest thing the Republic has to an army, a quasi-re
 
 Jedi loyalty: [+ jedi_loyalty : loyalty +]
 
-- 
+- @crime: Investigate crime lords, gangs, and pirates.
 - @trade: Investigate the Trade Federation and their associated megacorporations.
 - @sedition: Investigate sedition in the Senate.
+- @root: Do not call upon the Jedi for now.
 
+@crime
+
+@trade
 
 @sedition
