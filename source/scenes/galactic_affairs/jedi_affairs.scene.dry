@@ -1,0 +1,19 @@
+title: Jedi Affairs
+tags: galactic_affairs
+is-card: true
+card-image: img/Jedi_symbol.svg
+new-page: True
+on-arrival: month_actions += 1
+
+= Jedi Affairs
+
+The Jedi are currently the closest thing the Republic has to an army, a quasi-religious order of warriors with mystical super-physical powers. Their interests do not always coincide with the common good of the Republic, but they have a good working relation with the Senate, and thus the Chancellor.
+
+Jedi loyalty: [+ jedi_loyalty : loyalty +]
+
+- 
+- @trade: Investigate the Trade Federation and their associated megacorporations.
+- @sedition: Investigate sedition in the Senate.
+
+
+@sedition

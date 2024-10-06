@@ -1,0 +1,6 @@
+title: Outer Rim Policy
+tags: galactic_affairs
+is-card: true
+card-image: img/Settle_the_Outer_Rim.webp
+new-page: True
+on-arrival: month_actions += 1

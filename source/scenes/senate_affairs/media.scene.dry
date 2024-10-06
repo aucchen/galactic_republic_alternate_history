@@ -1,0 +1,6 @@
+title: Media
+tags: senate_affairs
+is-card: true
+card-image: img/HoloNet.webp
+new-page: True
+on-arrival: month_actions += 1

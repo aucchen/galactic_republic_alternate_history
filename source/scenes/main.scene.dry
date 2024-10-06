@@ -1,0 +1,34 @@
+title: Next month
+is-hand: true
+max-cards: 3
+#set-bg: img/map.jpg
+
+- @senate_affairs
+- @galactic_affairs
+- #advisor
+
+
+@main_easy
+is-hand: true
+max-cards: 4
+#set-bg: img/map.jpg
+
+- @senate_affairs
+- @galactic_affairs
+- #advisor
+
+
+@senate_affairs
+title: Senate Affairs
+card-image: img/Senate_seal.svg
+is-deck: true
+
+- #senate_affairs
+
+
+@galactic_affairs
+title: Galactic Policy
+card-image: img/Republic_Emblem.svg
+is-deck: true
+
+- #galactic_affairs

@@ -1,0 +1,10 @@
+title: Trade Federation Relations
+tags: senate_affairs
+is-card: true
+card-image: img/Trade_Federation.webp
+new-page: True
+on-arrival: month_actions += 1
+
+= Trade Federation
+
+The Trade Federation is a vast shipping corporation, powerful enough to have its own representatives in the Senate.

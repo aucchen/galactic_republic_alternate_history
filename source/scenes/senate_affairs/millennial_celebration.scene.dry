@@ -1,0 +1,7 @@
+title: Millennial Celebration of the Republic
+tags: senate_affairs
+is-card: true
+card-image: img/Millennial_Celebration.webp
+on-arrival: month_actions += 1
+new-page: true
+

@@ -1,0 +1,36 @@
+title: Vote of no confidence
+tags: event
+new-page: true
+view-if: month = 2
+max-visits: 1
+face-image: img/Galacticsenate.webp
+
+= Vote of No Confidence
+
+In the wake of the invasion of Naboo by the Trade Federation, Naboo representative Queen Amidala has called for a vote of no confidence in your chancellorship, arguing that you are a weak and hapless leader. She argues for a strong chancellor who can deal effectively with the crises of the day, a chancellor such as Naboo's own Sheev Palpatine.
+
+The vote is expected to succeed, given the newfound sympathy that the Mid-Rim world is receiving.
+
+- @pacifists: Ask the support from the Pacifists.
+- @outer_rim: Ask for support from the Outer Rim.
+- @core: Ask for support from the Core Worlds.
+- @expose: Expose the nefarious influence of Sheev Palpatine!
+- @let_vote: Let the vote happen.
+
+@pacifists
+choose-if: pacifist_relation >= 50
+unavailable-subtitle: Our relations are not good enough.
+
+@outer_rim
+choose-if: rim_relation >= 50
+unavailable-subtitle: Our relations are not good enough.
+
+@core
+choose-if: core_relation >= 50
+unavailable-subtitle: Our relations are not good enough.
+
+@expose
+choose-if: palpatine_investigation >= 2
+unavailable-subtitle: We have no evidence of his involvement in this affair.
+
+@let_vote

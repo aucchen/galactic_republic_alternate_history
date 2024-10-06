@@ -1,0 +1,6 @@
+title: Finis Valorum
+view-if: valorum_advisor = 1
+tags: advisor
+card-image: img/portraits/Valorum.webp
+is-card: true
+is-pinned-card: true

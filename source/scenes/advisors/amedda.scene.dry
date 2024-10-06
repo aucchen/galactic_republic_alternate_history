@@ -1,0 +1,6 @@
+title: Mas Amedda
+view-if: amedda_advisor = 1
+tags: advisor
+card-image: img/portraits/MasAmedda.webp
+is-card: true
+is-pinned-card: true

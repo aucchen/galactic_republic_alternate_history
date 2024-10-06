@@ -1,0 +1,6 @@
+title: Yoda
+view-if: yoda_advisor = 1
+tags: advisor
+card-image: img/portraits/Yoda.webp
+is-card: true
+is-pinned-card: true
